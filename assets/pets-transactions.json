@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "name": "Alice",
+      "transactions": [
+        {
+          "transactionId": "T001",
+          "item": "Dog Food",
+          "amount": 50.0,
+          "date": "2024-09-01"
+        },
+        {
+          "transactionId": "T002",
+          "item": "Cat Toy",
+          "amount": 15.0,
+          "date": "2024-09-03"
+        },
+        {
+          "transactionId": "T007",
+          "item": "Gave pets to hostel",
+          "amount": 0.0,
+          "date": "2024-09-06"
+        }
+      ]
+    },
+    {
+      "userId": 2,
+      "name": "Bob",
+      "transactions": [
+        {
+          "transactionId": "T003",
+          "item": "Bird Cage",
+          "amount": 75.0,
+          "date": "2024-09-02"
+        },
+        {
+          "transactionId": "T004",
+          "item": "Fish Tank",
+          "amount": 120.0,
+          "date": "2024-09-04"
+        },
+        {
+          "transactionId": "T008",
+          "item": "Gave pets to hostel",
+          "amount": 0.0,
+          "date": "2024-09-06"
+        }
+      ]
+    },
+    {
+      "userId": 3,
+      "name": "Charlie",
+      "transactions": [
+        {
+          "transactionId": "T005",
+          "item": "Rabbit Hutch",
+          "amount": 60.0,
+          "date": "2024-09-03"
+        },
+        {
+          "transactionId": "T006",
+          "item": "Hamster Wheel",
+          "amount": 25.0,
+          "date": "2024-09-05"
+        },
+        {
+          "transactionId": "T009",
+          "item": "Gave pets to hostel",
+          "amount": 0.0,
+          "date": "2024-09-06"
+        }
+      ]
+    },
+    {
+      "userId": 4,
+      "name": "Anton Borisov",
+      "transactions": [
+        {
+          "transactionId": "T010",
+          "item": "Dog Leash",
+          "amount": 30.0,
+          "date": "2024-09-05"
+        },
+        {
+          "transactionId": "T011",
+          "item": "Cat Bed",
+          "amount": 40.0,
+          "date": "2024-09-06"
+        },
+        {
+          "transactionId": "T012",
+          "item": "Business Trip Ticket",
+          "amount": 300.0,
+          "date": "2024-09-04"
+        }
+      ]
+    }
+  ]
+}
